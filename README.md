@@ -1,2 +1,2 @@
 # Responsive_Animated-Login_Form
- Creamos un Login Form con un buen resoponsive design y animado.
+Mini proyecto donde creo un Login Form con responsive design y animado.
